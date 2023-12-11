@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amangeldievkuu
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning IOS Mobile App Development (Swift, UIkit), SwiftUI, CoreData
+- 👀 I’m interested in Bakcend Development
+- 🌱 I’m currently learning Python, Django, SQL, Docker
 - 📫 How to reach me amangeldievkuu@gmail.com
 
 <!---
