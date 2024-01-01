@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amangeldievkuu
-- 👀 I’m interested in Bakcend Development
-- 🌱 I’m currently learning Python, Django, SQL, Docker
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Dart, Flutter
 - 📫 How to reach me amangeldievkuu@gmail.com
 
 <!---
