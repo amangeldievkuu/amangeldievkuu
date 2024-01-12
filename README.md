@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amangeldievkuu
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Dart, Flutter
+- 🌱 I’m currently learning Swift, UIKit
 - 📫 How to reach me amangeldievkuu@gmail.com
 
 <!---
