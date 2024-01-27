@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amangeldievkuu
-- 👀 I’m interested in Backend Web Development
-- 🌱 I’m currently learning Laravel, PHP
+- 👀 I’m interested in iOS Mobile Application development
+- 🌱 I’m currently learning UIKit, Swift
 - 📫 How to reach me amangeldievkuu@gmail.com
 
 <!---
