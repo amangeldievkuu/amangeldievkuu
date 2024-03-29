@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amangeldievkuu
-- 👀 I’m interested in iOS Mobile Application development
-- 🌱 I’m currently learning UIKit, Swift
+- 👋 Hi, I’m @amangeldievkuu Senior Computer Science & Informatin Engineering Student
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Backend Development, C#, .NET platform, ASP.NET
 - 📫 How to reach me amangeldievkuu@gmail.com
 
 <!---
