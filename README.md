@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amangeldievkuu Senior Computer Science & Informatin Engineering Student
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Backend Development, PHP, Laravel, MySQL
+- 👀 I’m interested in FullStack development
+- 🌱 I’m currently learning React.Js, Next.Js, JavaScript
 - 📫 How to reach me amangeldievkuu@gmail.com
 
 <!---
