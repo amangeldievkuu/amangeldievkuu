@@ -22,7 +22,7 @@
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,postgres,react,docker,linux,github,git,postman&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,postgres,react,docker,linux,github,git,postman&perline=12&theme=light)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangeldievkuu&show_icons=true&locale=en&layout=compact" alt="amangeldievkuu" /></p>
