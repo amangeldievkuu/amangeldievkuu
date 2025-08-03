@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,postgres,react,docker,linux,github,git,postman&perline=12&theme=light)](https://skillicons.dev)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangeldievkuu&show_icons=true&locale=en&layout=compact" alt="amangeldievkuu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangeldievkuu&show_icons=true&locale=en&layout=compact&hide_title=true&border_radius=20" alt="amangeldievkuu" /></p>
 
 
 
