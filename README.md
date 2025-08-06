@@ -24,17 +24,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,postgres,react,docker,linux,github,git,postman,go&perline=12&theme=light)](https://skillicons.dev)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amangeldievkuu&area=true&radius=30&height=400&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangeldievkuu&show_icons=true&locale=en&layout=compact&hide_title=true&border_radius=20" alt="amangeldievkuu" /></p>
+<p>
 
 
-
-<!-- ---
-
-### 📊 My Stats
-
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=amangeldievkuu&show_icons=true&theme=dark) 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangeldievkuu&show_icons=true&locale=en" alt="amangeldievkuu" /></p>
-
--->
