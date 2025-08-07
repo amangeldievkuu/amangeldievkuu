@@ -1,15 +1,15 @@
 
 <h1 align="center">Kutman Amangeldiev</h1>
 
-<h3 align="center">A passionate Software Developer | Ruby on Rails • JavaScript</h3>
+<h3 align="center">A passionate Software Developer | JavaScript • ReactJS • NextJS</h3>
 
-- 👨🏻‍💻 I love coding in Ruby 💎  
+- 👨🏻‍💻 I love coding in JavaScript  
 - 📫 How to reach me amangeldievkuu@gmail.com
 - 🇰🇬 From Kyrgyzstan
 - 🌱 Currently living in Taiwan 🇹🇼
 ---
 
-- 🔭 I’m currently looking for a full-stack developer role
+- 🔭 I’m currently looking for a frontend developer role
 
 <h3 align="left">Connect with me:</h3>
   
@@ -22,12 +22,12 @@
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,postgres,react,docker,linux,github,git,postman,go&perline=12&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,next,ts,github,git,html,css,tailwind,vite,postman,postgres,rails,go&perline=15&theme=light)](https://skillicons.dev)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amangeldievkuu&area=true&radius=30&height=400&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amangeldievkuu&area=true&radius=30&height=300&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangeldievkuu&show_icons=true&locale=en&layout=compact&hide_title=true&border_radius=20" alt="amangeldievkuu" /></p>
-<p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangeldievkuu&show_icons=true&locale=en&layout=compact&hide_title=true&border_radius=20" alt="amangeldievkuu" /></p>
+<p> -->
 
 
