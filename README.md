@@ -1,7 +1,7 @@
 <h1 align="center">Kutman Amangeldiev</h1>
-<h3 align="center">A passionate Software Developer | Golang • JavaScript </h3>
+<h3 align="center">A passionate Software Developer | FullStack • TypeScript</h3>
 
-<h4>Hi, I'm Kutman, I'm a software engineer based in Taiwan. I'm currently working on building scalable and efficient web applications using modern technologies like TypeScript, JavaScript, React, TanStack Start. In my free time, I enjoy walking in the parks, swimming, and deepening my knowledge in Software development.</h4>
+<h4>Hi, I'm Kutman, I'm a software engineer based in Taiwan. I'm currently working on building scalable and efficient web applications using modern technologies like TypeScript, JavaScript, React, TanStack Start, Hono/Express.Js . In my free time, I enjoy walking in the parks, swimming, and deepening my knowledge in Software development.</h4>
 
 - 👨🏻‍💻 I love coding in TypeScript
 - 📫 How to reach me kutman.amangeldi@gmail.com
@@ -20,7 +20,7 @@
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,github,git,sqlite,postgresql,postman,html,css,python&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,supabase,express,rabbitmq,github,git,postgresql,postman,html,css,tailwind,bash&perline=15)](https://skillicons.dev)
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amangeldievkuu&area=true&radius=30&height=200&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
