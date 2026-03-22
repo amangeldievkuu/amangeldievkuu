@@ -1,9 +1,9 @@
 <h1 align="center">Kutman Amangeldiev</h1>
 <h3 align="center">A passionate Software Developer | Golang • JavaScript </h3>
 
-<h4>Hi, I'm Kutman, I'm a software engineer based in Taiwan. I'm currently working on building scalable and efficient web applications using modern technologies like Golang, Gin, Swagger, JavaScript. In my free time, I enjoy hiking, swimming, and deepening my knowledge in Software development.</h4>
+<h4>Hi, I'm Kutman, I'm a software engineer based in Taiwan. I'm currently working on building scalable and efficient web applications using modern technologies like TypeScript, JavaScript, React, TanStack Start. In my free time, I enjoy walking in the parks, swimming, and deepening my knowledge in Software development.</h4>
 
-- 👨🏻‍💻 I love coding in Golang
+- 👨🏻‍💻 I love coding in TypeScript
 - 📫 How to reach me kutman.amangeldi@gmail.com
 - 🇰🇬 From Kyrgyzstan
 - 🌱 Currently living in Taipei, Taiwan 🇹🇼
